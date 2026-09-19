@@ -1,0 +1,6 @@
+torch
+transformers
+pillow
+sqlite-vec
+open_clip_torch
+numpy
